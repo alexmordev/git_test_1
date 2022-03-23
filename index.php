@@ -15,3 +15,5 @@ Class VerifyPass{
         return (preg_match('/^[0,9]{6-9}$/', $usser->pass)) ? TRUE :FALSE;
     }
 }
+
+$alejandro = new CreateUsser("Alejandro", '1093293121');
