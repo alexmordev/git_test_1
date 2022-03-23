@@ -1,0 +1,5 @@
+Es cuando ocurre un error en tu rama despues de hacer un merge, una vez que se resuelva el conflicto
+volvera al estado habitual
+
+$git config --global user.name "Alejadro Morales"
+$git config --global email.name "corre@mail.com" 
